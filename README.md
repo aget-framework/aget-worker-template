@@ -2,7 +2,7 @@
 
 > Execute tasks reliably with progress tracking and deliverable production
 
-**Version**: v3.27.0 | **Archetype**: Worker | **Skills**: full universal set + worker-specific (see `.claude/skills/`; conformance validator-enforced)
+**Version**: v3.28.0 | **Archetype**: Worker | **Skills**: full universal set + worker-specific (see `.claude/skills/`; conformance validator-enforced)
 
 ---
 
